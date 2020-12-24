@@ -41,7 +41,7 @@ package sumadormatrices ;
             }
 
         } else {
-            throw new Error("Las matrices deben tener la misma cantidad de filas que columnas");
+            throw new Error("ahi un problema ");
         }
         System.out.println("Matriz resultado:");
         for (int i = 0; i < filasA; i++) {
